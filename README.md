@@ -1,8 +1,10 @@
 # Application Scanner
 
 ### The first ipynb "Application_Scanner" has these steps.
-imports
+Imports
 ------------------------------------------------------------
-import re
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+import re<br/>
+from sklearn.feature_extraction.text import CountVectorizer<br/>
+from sklearn.metrics.pairwise import cosine_similarity<br/>
+
+
