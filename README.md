@@ -1,1 +1,1 @@
-# Application-Scanner
+# ApplicationScanner
