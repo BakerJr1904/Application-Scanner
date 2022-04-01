@@ -9,6 +9,6 @@ from sklearn.metrics.pairwise import cosine_similarity<br/>
 
 ____________________________________________________________
 
-# Saving the Job Descriptions and Resumes to variables
+### Saving the Job Descriptions and Resumes to variables
 
 # Under construction 
