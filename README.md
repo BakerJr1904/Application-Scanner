@@ -22,6 +22,7 @@ ____________________________________________________________
 
 ### Comparisons made in this notebook
 - First, we compared a bakery job to data science resume 1. <br/>
+- 
 - Second, we compared a bakery job to data science resume 2. <br/>
 - Third, we compared a data science job to data science resume 1. <br/>
 - Forth, we compared a data science job to data science resume 2. <br/>
