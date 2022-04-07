@@ -17,7 +17,6 @@ ____________________________________________________________
 
 Copy and paste the resume to the variable you want to use.
 This notebook has two job descriptions and two resumes.
-
 ____________________________________________________________
 
 ### Comparisons made in this notebook
