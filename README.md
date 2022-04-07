@@ -1,5 +1,7 @@
 # Application Scanner
 
+This is an upgaded notebook from the first one that only used Docx files, now you can import any data.
+
 ### The first ipynb "Application_Scanner" has these steps.
 Imports
 ------------------------------------------------------------
