@@ -13,4 +13,6 @@ ____________________________________________________________
 
 ### Saving the Job Descriptions and Resumes to variables
 
+Copy and paste the resume to the variable you want to use.
+
 # Under construction 
